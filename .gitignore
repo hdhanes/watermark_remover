@@ -1,0 +1,3 @@
+models/ae_aug.pt
+models/vae_aug.pt
+models/pix2pix_best.pt
